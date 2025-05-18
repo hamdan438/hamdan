@@ -14,7 +14,7 @@
       "marketplaceID": "",
       "developerName": "By hamdan",
       "subtitle": "Enjoy!! 2",
-      "localizedDescription": "Enjoy!!",
+      "localizedDescription": "Enjoy!! 2",
       "iconURL": "https://i.imgur.com/cE8zY9U.png",
       "tintColor": "#fac804",
       "category": "games",
@@ -22,9 +22,9 @@
       "versions": [
         {
           "version": "2.3.1",
-          "date": "2025-05-16T16:37:00+03:00",
+          "date": "2025-05-16T13:37:00+03:00",
           "localizedDescription": "a game",
-          "downloadURL": "https://drive.google.com/uc?export=download&id=1z3goFLfIq35n6wrbmXELES7d6GGeCJPm",
+          "downloadURL": "https://www.dropbox.com/scl/fi/odvfg9i1to199111mho58/com.backflipstudios.seabeard_2.3.1_und3fined.ipa?rlkey=m4ww4jr44v43r055mknijvq8b&st=aldtviif&dl=1",
           "size": 114700000,
           "buildVersion": "123",
           "minOSVersion": "16.0"
