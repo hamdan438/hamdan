@@ -1,5 +1,5 @@
 {
-  "name": "My Example Source",
+  "name": "Hamdan's Source",
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://i.imgur.com/0SmSDHg.jpeg",
@@ -12,9 +12,9 @@
       "name": "Seabeard",
       "bundleIdentifier": "com.backflipstudios.seabeard",
       "marketplaceID": "",
-      "developerName": "Example Developer",
+      "developerName": "By hamdan",
       "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "localizedDescription": "Enjoy!!",
       "iconURL": "https://i.imgur.com/XgjL2uI.png",
       "tintColor": "#fac804",
       "category": "other",
@@ -24,10 +24,10 @@
           "downloadURL": "https://drive.usercontent.google.com/download?id=1zdPRsxK14e3D0qA-_YwCgYu7u3HgKj7l&export=download&authuser=0&confirm=t&uuid=e8f5c6db-cfd3-40b0-a2fb-9636a8b423a0&at=ALoNOglvWRMiBaf2LUqw4oI6UHhT%3A1747552316739",
           "size": 114700000,
           "version": "2.3.1",
-          "buildVersion": null,
+          "buildVersion": 1,
           "date": "2025-05-17T18:37:00+04:00",
           "localizedDescription": null,
-          "minOSVersion": null
+          "minOSVersion": 16
         }
       ],
       "appPermissions": {
