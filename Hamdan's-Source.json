@@ -13,21 +13,21 @@
       "bundleIdentifier": "com.backflipstudios.seabeard",
       "marketplaceID": "",
       "developerName": "By hamdan",
-      "subtitle": "Enjoy!!",
+      "subtitle": "Enjoy!! 2",
       "localizedDescription": "Enjoy!!",
       "iconURL": "https://i.imgur.com/cE8zY9U.png",
       "tintColor": "#fac804",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
           "version": "2.3.1",
-          "date": "2025-05-17T02:37:00+04:00",
-          "localizedDescription": null,
+          "date": "2025-05-16T16:37:00+03:00",
+          "localizedDescription": "a game",
           "downloadURL": "https://drive.google.com/uc?export=download&id=1z3goFLfIq35n6wrbmXELES7d6GGeCJPm",
           "size": 114700000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "buildVersion": "123",
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
